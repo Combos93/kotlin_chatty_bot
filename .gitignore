@@ -1,0 +1,4 @@
+/.idea
+**/src/java/build
+**/test/java/build
+build/*
